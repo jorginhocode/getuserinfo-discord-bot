@@ -30,4 +30,4 @@ Emoji Setup:
 - Replace the emoji IDs in the code with your server's custom emoji IDs
 - Required badge emojis: Staff, Partner, HypeSquad, Bug Hunter, Early Supporter, Developer, Moderator, Active Developer, and HypeSquad Bravery/Brilliance/Balance
 
-![getuserinfo-discord-bot](/preview.png)
+![discord-getuserinfo](https://i.imgur.com/SXWJfE8.png)
